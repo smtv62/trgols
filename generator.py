@@ -36,11 +36,16 @@ def m3u_temizle_ve_hazirla(dosya_yolu):
     print(f"🧹 {dosya_yolu} temizlendi ve yeni kayıtlar için hazırlandı.")
 
 def m3u_listesine_ekle(url, kanal_adi, referer_url, dosya_yolu):
+    # İstediğin formata uygun olarak referer sonuna '/' ekliyoruz
+    if not referer_url.endswith('/'):
+        referer_url += '/'
+        
     with open(dosya_yolu, "a", encoding="utf-8") as f:
-        optimize_url = f"{url}|User-Agent={SABIT_USER_AGENT}&Referer={referer_url}"
         f.write(f'#EXTINF:-1 group-title="Taraftarium",{kanal_adi}\n')
-        f.write(f"{optimize_url}\n\n")
-    print(f"💾 [KAYDEDİLDİ] {kanal_adi} -> M3U dosyasına yazıldı.")
+        f.write(f'#EXTVLCOPT:http-referrer={referer_url}\n')
+        f.write(f'#EXTVLCOPT:http-user-agent={SABIT_USER_AGENT}\n')
+        f.write(f"{url}\n\n")
+    print(f"💾 [KAYDEDİLDİ] {kanal_adi} -> M3U formatında yazıldı.")
 
 async def main():
     hedef_url = get_active_taraftarium_url(BASLANGIC_DOMAIN_NUM)
@@ -128,7 +133,7 @@ async def main():
 
                 if yakalanan_url:
                     print(f"   🎯 LINK BULUNDU: {yakalanan_url[:60]}...")
-                    # Referer olarak dinamik aktif web adresi (örn: https://taraftarium1078.xyz/) gönderiliyor
+                    # Referer bilgisi hedeflenen aktif taraftarium alan adı olarak aktarılıyor
                     m3u_listesine_ekle(yakalanan_url, kanal_adi, hedef_url, CIKTI_DOSYASI)
                 else:
                     print(f"   ⚠️ Yayın linki (mono.m3u8) bu kanal için yakalanamadı.")
