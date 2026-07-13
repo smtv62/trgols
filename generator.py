@@ -37,7 +37,6 @@ def m3u_temizle_ve_hazirla(dosya_yolu):
 
 def m3u_listesine_ekle(url, kanal_adi, referer_url, dosya_yolu):
     with open(dosya_yolu, "a", encoding="utf-8") as f:
-        # Referer olarak artık doğrudan aktif Taraftarium adresi basılıyor
         optimize_url = f"{url}|User-Agent={SABIT_USER_AGENT}&Referer={referer_url}"
         f.write(f'#EXTINF:-1 group-title="Taraftarium",{kanal_adi}\n')
         f.write(f"{optimize_url}\n\n")
@@ -57,7 +56,6 @@ async def main():
         )
         page = await context.new_page()
 
-        # Reklam ve analitikleri engelleyerek hızı artırıyoruz
         async def trafik_filtresi(route, request):
             if request.resource_type in ["stylesheet", "font", "image"] or any(x in request.url for x in ["google", "analytics", "doubleclick", "adnxs"]):
                 await route.abort()
@@ -100,7 +98,6 @@ async def main():
             await browser.close()
             return
 
-        # 4. Adım: Her kanalın sayfasına sırayla girip mono.m3u8 bekleme
         for index, kanal in enumerate(kesfedilen_kanallar):
             kanal_id = kanal["id"]
             kanal_adi = kanal["name"]
@@ -131,4 +128,18 @@ async def main():
 
                 if yakalanan_url:
                     print(f"   🎯 LINK BULUNDU: {yakalanan_url[:60]}...")
-                    # HATA DÜZELTİLD
+                    # Referer olarak dinamik aktif web adresi (örn: https://taraftarium1078.xyz/) gönderiliyor
+                    m3u_listesine_ekle(yakalanan_url, kanal_adi, hedef_url, CIKTI_DOSYASI)
+                else:
+                    print(f"   ⚠️ Yayın linki (mono.m3u8) bu kanal için yakalanamadı.")
+
+            except Exception as ex:
+                print(f"   ❌ Sayfa yüklenirken hata oluştu: {str(ex)[:50]}")
+            finally:
+                page.remove_listener("request", istek_dinle)
+
+        print(f"\n🏁 [BİTTİ] '{CIKTI_DOSYASI}' dosyası başarıyla güncellendi!")
+        await browser.close()
+
+if __name__ == "__main__":
+    asyncio.run(main())
