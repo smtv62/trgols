@@ -1,40 +1,12 @@
-name: IPTV Playlist Güncelleyici Bot
+- name: Python Bağımlılıklarını Kur
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests playwright
 
-on:
-  push:
-    paths:
-      - 'streams.json'        # Sadece streams.json değiştiğinde çalışır
-  workflow_dispatch:          # İstediğin an manuel olarak tetiklemeni sağlar
-  schedule:
-    - cron: '0 0 * * *'       # Her gün gece 00:00'da otomatik çalışır
+      - name: Playwright Tarayıcılarını ve Sistem Bağımlılıklarını Kur
+        run: |
+          python -m playwright install chromium --with-deps
 
-permissions:
-  contents: write             # GitHub'ın depoya geri yazabilmesi için gerekli izin
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Depoyu Klonla
-      uses: actions/checkout@v4
-
-    - name: Python Kurulumu
-      uses: actions/setup-python@v5
-      with:
-        python-level: '3.x'
-
-    - name: M3U Playlistini Üret
-      run: python generator.py
-
-    - name: Değişiklikleri Commit Et ve Gönder
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git add playlist.m3u
-        if git diff --staged --quiet; then
-          echo "Değişiklik yok, commit edilmedi."
-        else
-          git commit -m "Bot: playlist.m3u otomatik olarak güncellendi"
-          git push
-        fi
+      - name: Botu Çalıştır
+        run: |
+          python generator.py
