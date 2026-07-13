@@ -1,0 +1,40 @@
+name: Günlük IPTV Güncelleyici
+
+on:
+  schedule:
+    # Her gün gece 00:00'da otomatik çalışır (UTC saatine göre)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Bu seçenek sayesinde GitHub paneli üzerinden elinizle de tetikleyebilirsiniz
+
+jobs:
+  update-m3u:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Klonla
+        uses: actions/checkout@v4
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Python Bağımlılıklarını Kur
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests playwright
+
+      - name: Playwright Tarayıcılarını ve Sistem Bağımlılıklarını Kur
+        run: |
+          python -m playwright install chromium --with-deps
+
+      - name: Botu Çalıştır
+        run: |
+          python generator.py
+
+      - name: Değişiklikleri GitHub'a Kaydet (Commit & Push)
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add taraftarium_canli.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Güncel kanal listesi oluşturuldu" && git push)
