@@ -36,12 +36,15 @@ def m3u_temizle_ve_hazirla(dosya_yolu):
     print(f"🧹 {dosya_yolu} temizlendi ve yeni kayıtlar için hazırlandı.")
 
 def m3u_listesine_ekle(url, kanal_adi, referer_url, dosya_yolu):
-    # İstediğin formata uygun olarak referer sonuna '/' ekliyoruz
     if not referer_url.endswith('/'):
         referer_url += '/'
         
+    # Eski/hatalı dizin yapısını güncel yol ile değiştiriyoruz
+    if "/ex1/" in url:
+        url = url.replace("/ex1/", "/taraftarium/")
+        
     with open(dosya_yolu, "a", encoding="utf-8") as f:
-        f.write(f'#EXTINF:-1 group-title="Taraftarium",{kanal_adi}\n')
+        f.write(f'#EXTINF:-1,{kanal_adi}\n')
         f.write(f'#EXTVLCOPT:http-referrer={referer_url}\n')
         f.write(f'#EXTVLCOPT:http-user-agent={SABIT_USER_AGENT}\n')
         f.write(f"{url}\n\n")
@@ -93,13 +96,18 @@ async def main():
                 else:
                     kanal_adi = f"Kanal {kanal_id.upper()}"
                 
+                # ATV kanalını listeden muaf tutuyoruz
+                if "atv" in kanal_adi.lower() or "atv" in kanal_id.lower():
+                    print(f"⏭️ [ATLANTI] {kanal_adi} (ATV listeden çıkarıldı)")
+                    continue
+
                 kesfedilen_kanallar.append({"id": kanal_id, "name": kanal_adi})
 
         total_kanal = len(kesfedilen_kanallar)
         print(f"📺 Toplam {total_kanal} kanal tespit edildi. Tarama başlıyor...\n")
 
         if total_kanal == 0:
-            print("❌ HATA: Sitede hiçbir 'a.channel-item' elemanı bulunamadı!")
+            print("❌ HATA: Sitede uygun kanal elemanı bulunamadı!")
             await browser.close()
             return
 
@@ -117,7 +125,8 @@ async def main():
             async def istek_dinle(request):
                 nonlocal yakalanan_url
                 url = request.url
-                if "mono.m3u8" in url:
+                # .m3u8 uzantılı yayın isteklerini yakalar
+                if re.search(r"\.m3u8(\?|$)", url):
                     yakalanan_url = url
                     link_yakalandi_olayi.set()
 
@@ -127,16 +136,15 @@ async def main():
                 await page.goto(kanal_sayfa_url, wait_until="domcontentloaded", timeout=10000)
                 
                 try:
-                    await asyncio.wait_for(link_yakalandi_olayi.wait(), timeout=4.0)
+                    await asyncio.wait_for(link_yakalandi_olayi.wait(), timeout=6.0)
                 except asyncio.TimeoutError:
                     pass
 
                 if yakalanan_url:
-                    print(f"   🎯 LINK BULUNDU: {yakalanan_url[:60]}...")
-                    # Referer bilgisi hedeflenen aktif taraftarium alan adı olarak aktarılıyor
+                    print(f"   🎯 LINK BULUNDU: {yakalanan_url}")
                     m3u_listesine_ekle(yakalanan_url, kanal_adi, hedef_url, CIKTI_DOSYASI)
                 else:
-                    print(f"   ⚠️ Yayın linki (mono.m3u8) bu kanal için yakalanamadı.")
+                    print(f"   ⚠️ Yayın linki bu kanal için yakalanamadı.")
 
             except Exception as ex:
                 print(f"   ❌ Sayfa yüklenirken hata oluştu: {str(ex)[:50]}")
