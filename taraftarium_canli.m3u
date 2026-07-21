@@ -1,98 +1,18 @@
 #EXTM3U
-#EXTINF:-1 group-title="Taraftarium",İspanya - Arjantin
+#EXTINF:-1 group-title="Taraftarium",Fenerbahçe - Gornik Zabrze
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",Fransa - İngiltere
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Formula 1 - Belçika GP
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",T.Mcmillen - A.Montes
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",T.Ricci - F.Kline
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",C.Hooper - M.Ramirez
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",K.Holland - J.Smith
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",J.Cannonier - C.Duncan
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",D.Plessis - K.Usman
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Küba - İtalya
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",FIA Formula 3 - Belçika GP
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",FIA Formula 2 - Belçika GP
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Porsche Super Cup - Belçika GP
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Japonya - Arjantin
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Türkiye - İran
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Bisiklet Tour de France - Etap 15
+#EXTINF:-1 group-title="Taraftarium",Bisiklet Tour de France - Etap 16
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",Motokros Dünya Şampiyonasi - Büyük Britanya
+#EXTINF:-1 group-title="Taraftarium",Sabah Bakü - KuPS
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Sırbistan - Slovenya
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Corales Championship Golf Turnuvasi - Gün 4
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
 
 #EXTINF:-1 group-title="Taraftarium",BeIN Sports 1
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
@@ -219,100 +139,20 @@ https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",İspanya - Arjantin
+#EXTINF:-1 group-title="Taraftarium",Fenerbahçe - Gornik Zabrze
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",Fransa - İngiltere
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Formula 1 - Belçika GP
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",T.Mcmillen - A.Montes
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",T.Ricci - F.Kline
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",C.Hooper - M.Ramirez
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",K.Holland - J.Smith
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",J.Cannonier - C.Duncan
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",D.Plessis - K.Usman
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Küba - İtalya
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",FIA Formula 3 - Belçika GP
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",FIA Formula 2 - Belçika GP
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Porsche Super Cup - Belçika GP
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Japonya - Arjantin
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Türkiye - İran
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Bisiklet Tour de France - Etap 15
+#EXTINF:-1 group-title="Taraftarium",Bisiklet Tour de France - Etap 16
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",Motokros Dünya Şampiyonasi - Büyük Britanya
+#EXTINF:-1 group-title="Taraftarium",Sabah Bakü - KuPS
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Sırbistan - Slovenya
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Corales Championship Golf Turnuvasi - Gün 4
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
 
 #EXTINF:-1 group-title="Taraftarium",BeIN Sports 1
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
