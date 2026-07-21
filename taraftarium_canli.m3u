@@ -1,280 +1,270 @@
 #EXTM3U
-#EXTINF:-1 group-title="Taraftarium",Fenerbahçe - Gornik Zabrze
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Bisiklet Tour de France - Etap 16
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Sabah Bakü - KuPS
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Sports 1
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/taraftarium/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Sports 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Sports 3
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Sports 4
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Sports 5
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b5/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Max 1
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Max 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/bm2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",S Sport
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",S Sport 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Tivibu 1
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/t1/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Tivibu 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/t2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Tivibu 3
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/t3/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Tivibu 4
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/t4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Smartspor
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Smartspor 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/sms2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",TRT Spor
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",TRT Spor 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trtspor2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",TRT 1
+#EXTINF:-1,Rams Başakşehir - Inter Turku
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",A Spor
+#EXTINF:-1,İtalya - Hollanda
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/as/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",ATV
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/atv/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",TV 8
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/tv8/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",TV 8,5
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/tv85/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",NBA TV
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/nbatv/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Euro Sport 1
+#EXTINF:-1,Bisiklet Tour de France - Etap 17
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",Euro Sport 2
+#EXTINF:-1,Brezilya - Japonya
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+
+#EXTINF:-1,BeIN Sports 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/taraftarium/mono.m3u8
+
+#EXTINF:-1,BeIN Sports 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/b2/mono.m3u8
+
+#EXTINF:-1,BeIN Sports 3
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
+
+#EXTINF:-1,BeIN Sports 4
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
+
+#EXTINF:-1,BeIN Sports 5
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/b5/mono.m3u8
+
+#EXTINF:-1,BeIN Max 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
+
+#EXTINF:-1,BeIN Max 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/bm2/mono.m3u8
+
+#EXTINF:-1,S Sport
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+
+#EXTINF:-1,S Sport 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+
+#EXTINF:-1,Tivibu 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/t1/mono.m3u8
+
+#EXTINF:-1,Tivibu 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/t2/mono.m3u8
+
+#EXTINF:-1,Tivibu 3
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/t3/mono.m3u8
+
+#EXTINF:-1,Tivibu 4
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/t4/mono.m3u8
+
+#EXTINF:-1,Smartspor
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
+
+#EXTINF:-1,Smartspor 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/sms2/mono.m3u8
+
+#EXTINF:-1,TRT Spor
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
+
+#EXTINF:-1,TRT Spor 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/trtspor2/mono.m3u8
+
+#EXTINF:-1,TRT 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+
+#EXTINF:-1,A Spor
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/as/mono.m3u8
+
+#EXTINF:-1,TV 8
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/tv8/mono.m3u8
+
+#EXTINF:-1,TV 8,5
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/tv85/mono.m3u8
+
+#EXTINF:-1,Euro Sport 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
+
+#EXTINF:-1,Euro Sport 2
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",Fenerbahçe - Gornik Zabrze
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ex1/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Bisiklet Tour de France - Etap 16
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Sabah Bakü - KuPS
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Sports 1
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/taraftarium/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Sports 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Sports 3
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Sports 4
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Sports 5
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/b5/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Max 1
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",BeIN Max 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/bm2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",S Sport
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",S Sport 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Tivibu 1
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/t1/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Tivibu 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/t2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Tivibu 3
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/t3/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Tivibu 4
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/t4/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Smartspor
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Smartspor 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/sms2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",TRT Spor
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",TRT Spor 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trtspor2/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",TRT 1
+#EXTINF:-1,Rams Başakşehir - Inter Turku
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",A Spor
+#EXTINF:-1,İtalya - Hollanda
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/as/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",ATV
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/atv/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",TV 8
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/tv8/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",TV 8,5
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/tv85/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",NBA TV
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/nbatv/mono.m3u8
-
-#EXTINF:-1 group-title="Taraftarium",Euro Sport 1
+#EXTINF:-1,Bisiklet Tour de France - Etap 17
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
 
-#EXTINF:-1 group-title="Taraftarium",Euro Sport 2
+#EXTINF:-1,Brezilya - Japonya
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+
+#EXTINF:-1,BeIN Sports 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/taraftarium/mono.m3u8
+
+#EXTINF:-1,BeIN Sports 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/b2/mono.m3u8
+
+#EXTINF:-1,BeIN Sports 3
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/b3/mono.m3u8
+
+#EXTINF:-1,BeIN Sports 4
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/b4/mono.m3u8
+
+#EXTINF:-1,BeIN Sports 5
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/b5/mono.m3u8
+
+#EXTINF:-1,BeIN Max 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
+
+#EXTINF:-1,BeIN Max 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/bm2/mono.m3u8
+
+#EXTINF:-1,S Sport
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+
+#EXTINF:-1,S Sport 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/ss2/mono.m3u8
+
+#EXTINF:-1,Tivibu 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/t1/mono.m3u8
+
+#EXTINF:-1,Tivibu 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/t2/mono.m3u8
+
+#EXTINF:-1,Tivibu 3
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/t3/mono.m3u8
+
+#EXTINF:-1,Tivibu 4
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/t4/mono.m3u8
+
+#EXTINF:-1,Smartspor
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
+
+#EXTINF:-1,Smartspor 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/sms2/mono.m3u8
+
+#EXTINF:-1,TRT Spor
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
+
+#EXTINF:-1,TRT Spor 2
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/trtspor2/mono.m3u8
+
+#EXTINF:-1,TRT 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+
+#EXTINF:-1,A Spor
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/as/mono.m3u8
+
+#EXTINF:-1,TV 8
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/tv8/mono.m3u8
+
+#EXTINF:-1,TV 8,5
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/tv85/mono.m3u8
+
+#EXTINF:-1,Euro Sport 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
+
+#EXTINF:-1,Euro Sport 2
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
