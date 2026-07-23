@@ -1,23 +1,43 @@
 #EXTM3U
-#EXTINF:-1,Rams Başakşehir - Inter Turku
+#EXTINF:-1,Beşiktaş - FC Midtjylland
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
 
-#EXTINF:-1,İtalya - Hollanda
+#EXTINF:-1,Türkiye - Kanada
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
 
-#EXTINF:-1,Bisiklet Tour de France - Etap 17
+#EXTINF:-1,M.Sherif - E.Jacquemot
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/bm2/mono.m3u8
+
+#EXTINF:-1,N.Bartunkova - L.Tararudee
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
+
+#EXTINF:-1,Bisiklet Tour de France - Etap 18
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
 
-#EXTINF:-1,Brezilya - Japonya
+#EXTINF:-1,M.Hontama - L.Tagger
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
+
+#EXTINF:-1,ABD - Çin
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+
+#EXTINF:-1,3M Golf Turnuvasi - Gün 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
 
 #EXTINF:-1,BeIN Sports 1
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
@@ -134,25 +154,45 @@ https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
 
-#EXTINF:-1,Rams Başakşehir - Inter Turku
+#EXTINF:-1,Beşiktaş - FC Midtjylland
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
 
-#EXTINF:-1,İtalya - Hollanda
+#EXTINF:-1,Türkiye - Kanada
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
 
-#EXTINF:-1,Bisiklet Tour de France - Etap 17
+#EXTINF:-1,M.Sherif - E.Jacquemot
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/bm2/mono.m3u8
+
+#EXTINF:-1,N.Bartunkova - L.Tararudee
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
+
+#EXTINF:-1,Bisiklet Tour de France - Etap 18
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
 
-#EXTINF:-1,Brezilya - Japonya
+#EXTINF:-1,M.Hontama - L.Tagger
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/bm1/mono.m3u8
+
+#EXTINF:-1,ABD - Çin
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
+
+#EXTINF:-1,3M Golf Turnuvasi - Gün 1
+#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
 
 #EXTINF:-1,BeIN Sports 1
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
