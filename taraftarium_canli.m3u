@@ -1,73 +1,18 @@
 #EXTM3U
-#EXTINF:-1,Trabzonspor - Al Sadd
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-
-#EXTINF:-1,FC Midtjylland - Beşiktaş
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ex3/mono.m3u8
-
-#EXTINF:-1,Inter Turku - Rams Başakşehir
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
-
-#EXTINF:-1,Gimnasia La Plata - River Plate
+#EXTINF:-1,Corinthians - Atletico PR
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
 
-#EXTINF:-1,Internacional - Flamengo
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/sms2/mono.m3u8
-
-#EXTINF:-1,Vitoria - Palmeiras
+#EXTINF:-1,Coritiba - Cruzeiro
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
 
-#EXTINF:-1,İtalya - ABD
+#EXTINF:-1,Sporting Lisbon - Nottingham Forest
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-
-#EXTINF:-1,Eskrim Dünya Şampiyonasi - Gün 6
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
-
-#EXTINF:-1,Polonya - Ukrayna
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-
-#EXTINF:-1,Snooker Shanghai Masters - Çeyrek Final
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
-
-#EXTINF:-1,Bisiklet Tour de L'Ain - Etap 3
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
-
-#EXTINF:-1,Danimarka Bisiklet Turu - Etap 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
-
-#EXTINF:-1,Commonwealth Oyunlari - Atletizm
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
-
-#EXTINF:-1,Golf Rocket Mortgage Classic - Gün 1
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
 
 #EXTINF:-1,BeIN Sports 1
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
@@ -184,75 +129,20 @@ https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
 
-#EXTINF:-1,Trabzonspor - Al Sadd
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ex2/mono.m3u8
-
-#EXTINF:-1,FC Midtjylland - Beşiktaş
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ex3/mono.m3u8
-
-#EXTINF:-1,Inter Turku - Rams Başakşehir
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/trt1/mono.m3u8
-
-#EXTINF:-1,Gimnasia La Plata - River Plate
+#EXTINF:-1,Corinthians - Atletico PR
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
 
-#EXTINF:-1,Internacional - Flamengo
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/sms2/mono.m3u8
-
-#EXTINF:-1,Vitoria - Palmeiras
+#EXTINF:-1,Coritiba - Cruzeiro
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
 
-#EXTINF:-1,İtalya - ABD
+#EXTINF:-1,Sporting Lisbon - Nottingham Forest
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-
-#EXTINF:-1,Eskrim Dünya Şampiyonasi - Gün 6
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
-
-#EXTINF:-1,Polonya - Ukrayna
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/ss/mono.m3u8
-
-#EXTINF:-1,Snooker Shanghai Masters - Çeyrek Final
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
-
-#EXTINF:-1,Bisiklet Tour de L'Ain - Etap 3
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
-
-#EXTINF:-1,Danimarka Bisiklet Turu - Etap 2
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
-
-#EXTINF:-1,Commonwealth Oyunlari - Atletizm
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu1/mono.m3u8
-
-#EXTINF:-1,Golf Rocket Mortgage Classic - Gün 1
-#EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://2i4.d72577a9dd0ec71.cfd/eu2/mono.m3u8
+https://2i4.d72577a9dd0ec71.cfd/trtspor/mono.m3u8
 
 #EXTINF:-1,BeIN Sports 1
 #EXTVLCOPT:http-referrer=https://taraftarium1078.xyz/
