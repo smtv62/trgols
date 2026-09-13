@@ -1,10 +1,9 @@
 name: Günlük IPTV Güncelleyici
-
 on:
+  workflow_dispatch: # Elle çalıştırmak için buton açar
   schedule:
-    # Her gün gece 00:00'da otomatik çalışır (UTC saatine göre)
-    - cron: '0 0 * * *'
-  workflow_dispatch: # Bu seçenek sayesinde GitHub paneli üzerinden elinizle de tetikleyebilirsiniz
+    # Her Çarşamba ve Cuma günü TSİ 16:00'da (UTC 13:00) çalışır
+    - cron: '0 13 * * 3,5'
 
 jobs:
   update-m3u:
