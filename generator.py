@@ -6,7 +6,7 @@ import requests
 from playwright.async_api import async_playwright
 
 # ==================== KULLANICI AYARLARI ====================
-BASLANGIC_DOMAIN_NUM = 1078  # Engellendikçe otomatik artacak başlangıç sayısı
+BASLANGIC_DOMAIN_NUM = 1082  # Aktif başlangıç sayısı güncellendi
 CIKTI_DOSYASI = "taraftarium_canli.m3u"
 SABIT_USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 # ============================================================
@@ -20,14 +20,19 @@ def get_active_taraftarium_url(start_num, max_attempts=15):
         test_url = f"https://taraftarium{current_num}.xyz"
         print(f"🔎 {test_url} test ediliyor...")
         try:
-            response = requests.get(test_url, headers=headers, timeout=4)
+            # allow_redirects=False eklenerek sahte/yönlendiren domainler engellendi
+            response = requests.get(test_url, headers=headers, timeout=4, allow_redirects=False)
+            
+            # Sadece doğrudan 200 dönen ve yönlendirme yapmayan domain kabul edilir
             if response.status_code == 200:
                 print(f"✅ AKTİF DOMAİN BULUNDU: {test_url}")
                 return test_url
+            elif response.status_code in [301, 302, 307, 308]:
+                print(f"⏩ {test_url} başka yere yönlendiriyor, atlanıyor...")
         except requests.RequestException:
             continue
             
-    print("⚠️ Aktif yeni domain bulunamadı! Başlangıç adresiyle devam ediliyor.")
+    print(f"⚠️ Aktif yeni domain bulunamadı! Başlangıç adresi ({start_num}) ile devam ediliyor.")
     return f"https://taraftarium{start_num}.xyz"
 
 def m3u_temizle_ve_hazirla(dosya_yolu):
@@ -39,7 +44,6 @@ def m3u_listesine_ekle(url, kanal_adi, referer_url, dosya_yolu):
     if not referer_url.endswith('/'):
         referer_url += '/'
         
-    # Eski/hatalı dizin yapısını güncel yol ile değiştiriyoruz
     if "/ex1/" in url:
         url = url.replace("/ex1/", "/taraftarium/")
         
@@ -96,7 +100,6 @@ async def main():
                 else:
                     kanal_adi = f"Kanal {kanal_id.upper()}"
                 
-                # ATV kanalını listeden muaf tutuyoruz
                 if "atv" in kanal_adi.lower() or "atv" in kanal_id.lower():
                     print(f"⏭️ [ATLANTI] {kanal_adi} (ATV listeden çıkarıldı)")
                     continue
@@ -125,7 +128,6 @@ async def main():
             async def istek_dinle(request):
                 nonlocal yakalanan_url
                 url = request.url
-                # .m3u8 uzantılı yayın isteklerini yakalar
                 if re.search(r"\.m3u8(\?|$)", url):
                     yakalanan_url = url
                     link_yakalandi_olayi.set()
