@@ -1,278 +1,83 @@
 #EXTM3U
-#EXTINF:-1,Samsunspor - Amedspor
+#EXTINF:-1,Galatasaray - Fenerbahçe
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8
 
-#EXTINF:-1,Samsunspor - Amedspor
+#EXTINF:-1,Galatasaray - Fenerbahçe
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://taraftarium1087.xyz/channel.html?id=https%3A%2F%2Ft0k.d72577a9dd0ec74.cfd%2Fhls%2Fpatron.m3u8
+https://t0k.d72577a9dd0ec74.cfd/hls/patron.m3u8
 
-#EXTINF:-1,Eyüpspor - Kasımpaşa
+#EXTINF:-1,Beşiktaş - İstanbul Başakşehir
+#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://g1b.d72577a9dd0ec74.cfd/b2/mono.m3u8
+
+#EXTINF:-1,Ç.Rizespor - Trabzonspor
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8
 
-#EXTINF:-1,Gaziantep FK - Erzurumspor
+#EXTINF:-1,Ballon Dor - Ödül Töreni
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/t1/mono.m3u8
 
-#EXTINF:-1,Formula 1 - Sıralama Turları
+#EXTINF:-1,BSC - Alanya Belediye
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b4/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/trtspor/mono.m3u8
 
-#EXTINF:-1,Trabzonspor - Esenler Erokspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b5/mono.m3u8
-
-#EXTINF:-1,Galatasaray - Onikişubat Belediyespor
+#EXTINF:-1,Dünya Güreş Şampiyonasi - Grekoromen Finaller
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/trtspor2/mono.m3u8
 
-#EXTINF:-1,Bandırmaspor - Iğdırspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/trtspor/mono.m3u8
-
-#EXTINF:-1,Ümraniyespor - Sivasspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b2/mono.m3u8
-
-#EXTINF:-1,Hertha Berlin - Arminia Bielefeld
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/taraftarium/mono.m3u8
-
-#EXTINF:-1,Fenerbahçe Tarfin - Turgutlu Bld.
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/htspor/mono.m3u8
-
-#EXTINF:-1,Aston Villa - Manchester City
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8
-
-#EXTINF:-1,Rayo Vallecano - Elche
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss/mono.m3u8
-
-#EXTINF:-1,Gebzespor - Somaspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t0/mono.m3u8
-
-#EXTINF:-1,Çorluspor 1947 - Menemenspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t1/mono.m3u8
-
-#EXTINF:-1,Gemlik Sümerbey - Ayvalıkgücü Bld.
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t2/mono.m3u8
-
-#EXTINF:-1,Hansa Rostock - Fortuna Düsseldorf
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/sifirtv/mono.m3u8
-
-#EXTINF:-1,Türk Telekom - Denizli Basket
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b5/mono.m3u8
-
-#EXTINF:-1,Safa Bakü - Kapaz
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/cbc/mono.m3u8
-
-#EXTINF:-1,Cagliari - Bologna
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex2/mono.m3u8
-
-#EXTINF:-1,Como - Sassuolo
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss2/mono.m3u8
-
-#EXTINF:-1,Muğlaspor - İstanbulspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/trtspor/mono.m3u8
-
-#EXTINF:-1,Augsburg - Union Berlin
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex3/mono.m3u8
-
-#EXTINF:-1,Köln - Schalke 04
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex4/mono.m3u8
-
-#EXTINF:-1,Mainz - Werder Bremen
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex5/mono.m3u8
-
-#EXTINF:-1,TED Kolejliler - Harem Spor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/htspor/mono.m3u8
-
-#EXTINF:-1,Leipzig - Elversberg
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex6/mono.m3u8
-
-#EXTINF:-1,Arsenal - Everton
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8
-
-#EXTINF:-1,Coventry - Fulham
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b4/mono.m3u8
-
-#EXTINF:-1,Racing Santander - Espanyol
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss/mono.m3u8
-
-#EXTINF:-1,Stuttgart II - Aachen
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/sifirtv/mono.m3u8
-
-#EXTINF:-1,Shakhtar Donetsk - Zorya
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t1/mono.m3u8
-
-#EXTINF:-1,Neftçi Bakü - Turan
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/cbc/mono.m3u8
-
-#EXTINF:-1,WSG Tirol - Grazer
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/sifirtv/mono.m3u8
-
-#EXTINF:-1,Napoli - Roma
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss2/mono.m3u8
-
-#EXTINF:-1,Sarıyer - Karagümrük
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/trtspor/mono.m3u8
-
-#EXTINF:-1,Keçiören Bld - Final Spor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/htspor/mono.m3u8
-
-#EXTINF:-1,Isparta 32 Spor - Elazığspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t2/mono.m3u8
-
-#EXTINF:-1,Aliağa FK - Aksaray Bld.
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t3/mono.m3u8
-
-#EXTINF:-1,Sakaryaspor - 24 Erzincanspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t0/mono.m3u8
-
-#EXTINF:-1,Eskişehirspor - Yıldırımspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t4/mono.m3u8
-
-#EXTINF:-1,Manresa - SP Burgos
+#EXTINF:-1,Neftchi Fargona - Al Ittihad
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/smarts/mono.m3u8
 
-#EXTINF:-1,Chelsea - Tottenham
+#EXTINF:-1,Bodrum Basket - Darıca Basketbol Feneri
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/htspor/mono.m3u8
 
-#EXTINF:-1,Borussia Dortmund - Eintracht Frankfurt
+#EXTINF:-1,Al Ahli - Al Gharafa
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex7/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/smarts/mono.m3u8
 
-#EXTINF:-1,Valencia - Villarreal
+#EXTINF:-1,Al Ain - Tractor Sazi
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/sms2/mono.m3u8
 
-#EXTINF:-1,Bahçeşehir Klj - Beşiktaş
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b5/mono.m3u8
-
-#EXTINF:-1,Rapid Wien - Aus Lustenau
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/sifirtv/mono.m3u8
-
-#EXTINF:-1,Nürnberg - Kaiserslautern
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex8/mono.m3u8
-
-#EXTINF:-1,Lens - Paris FC
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8
-
-#EXTINF:-1,Lazio - Parma
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss2/mono.m3u8
-
-#EXTINF:-1,St. Etienne - Nantes
+#EXTINF:-1,Mardin 1969 - Manisa FK
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/bm1/mono.m3u8
 
-#EXTINF:-1,Atletico Madrid - Deportivo
+#EXTINF:-1,Santa Clara - Benfica
+#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8
+
+#EXTINF:-1,PSG - Lyon
+#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://g1b.d72577a9dd0ec74.cfd/b4/mono.m3u8
+
+#EXTINF:-1,Montpellier - Red Star
+#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://g1b.d72577a9dd0ec74.cfd/ex5/mono.m3u8
+
+#EXTINF:-1,Sevilla - Osasuna
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/ss/mono.m3u8
-
-#EXTINF:-1,Almeria - Real Oviedo
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex9/mono.m3u8
-
-#EXTINF:-1,Barcelona - Zaragoza
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/smarts/mono.m3u8
-
-#EXTINF:-1,Gil Vicente - Porto
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b2/mono.m3u8
 
 #EXTINF:-1,BeIN Sports 1
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
@@ -389,280 +194,85 @@ https://g1b.d72577a9dd0ec74.cfd/eu1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/eu2/mono.m3u8
 
-#EXTINF:-1,Samsunspor - Amedspor
+#EXTINF:-1,Galatasaray - Fenerbahçe
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8
 
-#EXTINF:-1,Samsunspor - Amedspor
+#EXTINF:-1,Galatasaray - Fenerbahçe
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://taraftarium1087.xyz/channel.html?id=https%3A%2F%2Ft0k.d72577a9dd0ec74.cfd%2Fhls%2Fpatron.m3u8
 
-#EXTINF:-1,Eyüpspor - Kasımpaşa
+#EXTINF:-1,Beşiktaş - İstanbul Başakşehir
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://t0k.d72577a9dd0ec74.cfd/hls/patron.m3u8
 
-#EXTINF:-1,Gaziantep FK - Erzurumspor
+#EXTINF:-1,Ç.Rizespor - Trabzonspor
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/b2/mono.m3u8
 
-#EXTINF:-1,Formula 1 - Sıralama Turları
+#EXTINF:-1,Ballon Dor - Ödül Töreni
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/t1/mono.m3u8
 
-#EXTINF:-1,Trabzonspor - Esenler Erokspor
+#EXTINF:-1,BSC - Alanya Belediye
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b4/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/trtspor/mono.m3u8
 
-#EXTINF:-1,Galatasaray - Onikişubat Belediyespor
+#EXTINF:-1,Dünya Güreş Şampiyonasi - Grekoromen Finaller
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/trtspor2/mono.m3u8
 
-#EXTINF:-1,Bandırmaspor - Iğdırspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/trtspor/mono.m3u8
-
-#EXTINF:-1,Ümraniyespor - Sivasspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b2/mono.m3u8
-
-#EXTINF:-1,Hertha Berlin - Arminia Bielefeld
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/taraftarium/mono.m3u8
-
-#EXTINF:-1,Fenerbahçe Tarfin - Turgutlu Bld.
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/htspor/mono.m3u8
-
-#EXTINF:-1,Aston Villa - Manchester City
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8
-
-#EXTINF:-1,Rayo Vallecano - Elche
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss/mono.m3u8
-
-#EXTINF:-1,Gebzespor - Somaspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t0/mono.m3u8
-
-#EXTINF:-1,Çorluspor 1947 - Menemenspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t1/mono.m3u8
-
-#EXTINF:-1,Gemlik Sümerbey - Ayvalıkgücü Bld.
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t2/mono.m3u8
-
-#EXTINF:-1,Hansa Rostock - Fortuna Düsseldorf
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/sifirtv/mono.m3u8
-
-#EXTINF:-1,Türk Telekom - Denizli Basket
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b5/mono.m3u8
-
-#EXTINF:-1,Safa Bakü - Kapaz
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/cbc/mono.m3u8
-
-#EXTINF:-1,Cagliari - Bologna
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex2/mono.m3u8
-
-#EXTINF:-1,Como - Sassuolo
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss2/mono.m3u8
-
-#EXTINF:-1,Muğlaspor - İstanbulspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/trtspor/mono.m3u8
-
-#EXTINF:-1,Augsburg - Union Berlin
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex3/mono.m3u8
-
-#EXTINF:-1,Köln - Schalke 04
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex4/mono.m3u8
-
-#EXTINF:-1,Mainz - Werder Bremen
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex5/mono.m3u8
-
-#EXTINF:-1,TED Kolejliler - Harem Spor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/htspor/mono.m3u8
-
-#EXTINF:-1,Leipzig - Elversberg
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex6/mono.m3u8
-
-#EXTINF:-1,Arsenal - Everton
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8
-
-#EXTINF:-1,Coventry - Fulham
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b4/mono.m3u8
-
-#EXTINF:-1,Racing Santander - Espanyol
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss/mono.m3u8
-
-#EXTINF:-1,Stuttgart II - Aachen
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/sifirtv/mono.m3u8
-
-#EXTINF:-1,Shakhtar Donetsk - Zorya
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t1/mono.m3u8
-
-#EXTINF:-1,Neftçi Bakü - Turan
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/cbc/mono.m3u8
-
-#EXTINF:-1,WSG Tirol - Grazer
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/sifirtv/mono.m3u8
-
-#EXTINF:-1,Napoli - Roma
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss2/mono.m3u8
-
-#EXTINF:-1,Sarıyer - Karagümrük
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/trtspor/mono.m3u8
-
-#EXTINF:-1,Keçiören Bld - Final Spor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/htspor/mono.m3u8
-
-#EXTINF:-1,Isparta 32 Spor - Elazığspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t2/mono.m3u8
-
-#EXTINF:-1,Aliağa FK - Aksaray Bld.
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t3/mono.m3u8
-
-#EXTINF:-1,Sakaryaspor - 24 Erzincanspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t0/mono.m3u8
-
-#EXTINF:-1,Eskişehirspor - Yıldırımspor
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/t4/mono.m3u8
-
-#EXTINF:-1,Manresa - SP Burgos
+#EXTINF:-1,Neftchi Fargona - Al Ittihad
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/smarts/mono.m3u8
 
-#EXTINF:-1,Chelsea - Tottenham
+#EXTINF:-1,Bodrum Basket - Darıca Basketbol Feneri
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/htspor/mono.m3u8
 
-#EXTINF:-1,Borussia Dortmund - Eintracht Frankfurt
+#EXTINF:-1,Al Ahli - Al Gharafa
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex7/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/smarts/mono.m3u8
 
-#EXTINF:-1,Valencia - Villarreal
+#EXTINF:-1,Al Ain - Tractor Sazi
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss/mono.m3u8
+https://g1b.d72577a9dd0ec74.cfd/sms2/mono.m3u8
 
-#EXTINF:-1,Bahçeşehir Klj - Beşiktaş
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b5/mono.m3u8
-
-#EXTINF:-1,Rapid Wien - Aus Lustenau
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/sifirtv/mono.m3u8
-
-#EXTINF:-1,Nürnberg - Kaiserslautern
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex8/mono.m3u8
-
-#EXTINF:-1,Lens - Paris FC
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8
-
-#EXTINF:-1,Lazio - Parma
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ss2/mono.m3u8
-
-#EXTINF:-1,St. Etienne - Nantes
+#EXTINF:-1,Mardin 1969 - Manisa FK
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/bm1/mono.m3u8
 
-#EXTINF:-1,Atletico Madrid - Deportivo
+#EXTINF:-1,Santa Clara - Benfica
+#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8
+
+#EXTINF:-1,PSG - Lyon
+#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://g1b.d72577a9dd0ec74.cfd/b4/mono.m3u8
+
+#EXTINF:-1,Montpellier - Red Star
+#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://g1b.d72577a9dd0ec74.cfd/ex5/mono.m3u8
+
+#EXTINF:-1,Sevilla - Osasuna
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://g1b.d72577a9dd0ec74.cfd/ss/mono.m3u8
-
-#EXTINF:-1,Almeria - Real Oviedo
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/ex9/mono.m3u8
-
-#EXTINF:-1,Barcelona - Zaragoza
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/smarts/mono.m3u8
-
-#EXTINF:-1,Gil Vicente - Porto
-#EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://g1b.d72577a9dd0ec74.cfd/b2/mono.m3u8
 
 #EXTINF:-1,BeIN Sports 1
 #EXTVLCOPT:http-referrer=https://taraftarium1087.xyz/
