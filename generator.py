@@ -85,8 +85,13 @@ async def main():
             await browser.close()
             return
 
-        kanal_elementleri = await page.query_selector_all("a.channel-item")
+        # Yalnizca "7/24" sekmesindeki kalici kanallar alinir; gunun maclari
+        # (data-category=football/basketball) ve diger sekmeler HARIC tutulur.
+        kanal_elementleri = await page.query_selector_all(
+            'a.channel-item[data-category="24-7"]'
+        )
         kesfedilen_kanallar = []
+        gorulen_idler = set()
 
         for kutu in kanal_elementleri:
             href = await kutu.get_attribute("href")
@@ -94,13 +99,20 @@ async def main():
             
             if id_match:
                 kanal_id = id_match.group(1)
+                # Sayfa ayni kanali DOM'da iki kez barindiriyor (mobil +
+                # masaustu menu); ID ile tekillik saglanir.
+                if kanal_id in gorulen_idler:
+                    continue
+                gorulen_idler.add(kanal_id)
                 kanal_adi_element = await kutu.query_selector(".channel-name")
                 if kanal_adi_element:
                     kanal_adi = (await kanal_adi_element.inner_text()).strip()
                 else:
                     kanal_adi = f"Kanal {kanal_id.upper()}"
                 
-                if "atv" in kanal_adi.lower() or "atv" in kanal_id.lower():
+                # Sadece ATV elenir; "nbatv" gibi id'lerde alt-dize kontrolu
+                # yanlislikla NBA TV'yi de elemesin.
+                if kanal_adi.strip().lower() == "atv" or kanal_id.strip().lower() == "atv":
                     print(f"⏭️ [ATLANTI] {kanal_adi} (ATV listeden çıkarıldı)")
                     continue
 
