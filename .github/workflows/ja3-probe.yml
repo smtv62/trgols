@@ -1,0 +1,39 @@
+name: JA3 Probe (gecici teshis)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  probe:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Kur
+        shell: bash
+        run: pip install curl_cffi
+
+      - name: Host + JA3 probe
+        shell: bash
+        run: |
+          echo "== runner IP =="
+          curl -sS https://api.ipify.org || true
+          echo ""
+          python - <<'PYEOF' || true
+          from curl_cffi import requests as r
+          URL = "https://g1b.d72577a9dd0ec74.cfd/patron/mono.m3u8"
+          H = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+              "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+              "Referer": "https://taraftarium1087.xyz/",
+          }
+          for imp in ["chrome124", "chrome131", "firefox133"]:
+              try:
+                  resp = r.get(URL, headers=H, impersonate=imp, timeout=25)
+                  first = resp.text.splitlines()[0][:40] if resp.text else ""
+                  print(f"{imp}: {resp.status_code} {len(resp.text)}B ilk='{first}'")
+              except Exception as e:
+                  print(f"{imp}: HATA {e}")
+          PYEOF
